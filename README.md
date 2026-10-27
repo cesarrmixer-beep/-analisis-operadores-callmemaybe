@@ -2,6 +2,9 @@
 
 CallMeMaybe necesita desarrollar un sistema de supervisión que identifique a los operadores ineficientes. El objetivo es detectar operadores con alto número de llamadas entrantes perdidas, largos tiempos de espera y pocas llamadas salientes realizadas.
 
+## Archivo 📁
+operadores_llámame_quizás.ipynb
+
 ### 🎯 Objetivo del proyecto
 Identificar diferencias significativas entre operadores eficientes e ineficientes para proponer un plan de mejora basado en datos.
 
